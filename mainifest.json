@@ -6,7 +6,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "https://boubeybobas.github.io/ZTI_projekt_28_03_74293/",
     "icons" : [
         {
             "src" : "./img/icon.png",
